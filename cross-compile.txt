@@ -1,0 +1,7 @@
+https://golang.org/doc/install/source#environment
+
+$env:GOOS = "linux"
+$env:GOARCH="amd64"
+
+$env:GOOS = "windows"
+$env:GOARCH="amd64"
